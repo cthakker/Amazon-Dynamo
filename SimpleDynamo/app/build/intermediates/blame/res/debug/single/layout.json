@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chintan/AndroidStudioProjects/SimpleDynamo-test/app/build/intermediates/res/merged/debug/layout/activity_simple_dynamo.xml",
+        "source": "/home/chintan/AndroidStudioProjects/SimpleDynamo-test/app/src/main/res/layout/activity_simple_dynamo.xml"
+    },
+    {
+        "merged": "/home/chintan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/merged/debug/layout/activity_simple_dynamo.xml",
+        "source": "/home/chintan/AndroidStudioProjects/SimpleDynamo/app/src/main/res/layout/activity_simple_dynamo.xml"
+    }
+]

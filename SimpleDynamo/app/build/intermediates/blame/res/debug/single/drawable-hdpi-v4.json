@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chintan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/chintan/AndroidStudioProjects/SimpleDynamo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chintan/AndroidStudioProjects/SimpleDynamo-test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/chintan/AndroidStudioProjects/SimpleDynamo-test/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
